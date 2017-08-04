@@ -1,0 +1,27 @@
+﻿@using Microsoft.AspNetCore.Mvc.Rendering
+@model FirstGlobal.DeployTrack.Models.DeployTrackViewModel
+@{
+    ViewData["Title"] = "About";
+}
+
+<h2>DeployTrack Add</h2>
+
+@using (Html.BeginForm("About", "Home", FormMethod.Post, new {@class = "form-horizontal", role = "form"}))
+{
+
+    @Html.AntiForgeryToken()
+    <h4>Add a New Deploy Track.</h4>
+    <hr />
+    <div class="form-group">
+        @Html.LabelFor(m => m.ModuleName, new { @class = "col-md-2 control-label", placeholder = "Module Name" })
+        <div class="col-md-10">
+            @Html.TextBoxFor(m => m.ModuleName, new { @class = "form-control", placeholder = "Module Name" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" class="btn btn-default" value="Add" />
+        </div>
+    </div>
+}

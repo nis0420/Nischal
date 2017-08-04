@@ -1,0 +1,7 @@
+C:\Sample Projects\FirstGlobal.DeployTrack\FirstGlobal.DeployTrack.Core\bin\Debug\netcoreapp1.1\FirstGlobal.DeployTrack.Core.deps.json
+C:\Sample Projects\FirstGlobal.DeployTrack\FirstGlobal.DeployTrack.Core\bin\Debug\netcoreapp1.1\FirstGlobal.DeployTrack.Core.dll
+C:\Sample Projects\FirstGlobal.DeployTrack\FirstGlobal.DeployTrack.Core\bin\Debug\netcoreapp1.1\FirstGlobal.DeployTrack.Core.pdb
+C:\Sample Projects\FirstGlobal.DeployTrack\FirstGlobal.DeployTrack.Core\obj\Debug\netcoreapp1.1\FirstGlobal.DeployTrack.Core.csprojResolveAssemblyReference.cache
+C:\Sample Projects\FirstGlobal.DeployTrack\FirstGlobal.DeployTrack.Core\obj\Debug\netcoreapp1.1\FirstGlobal.DeployTrack.Core.AssemblyInfo.cs
+C:\Sample Projects\FirstGlobal.DeployTrack\FirstGlobal.DeployTrack.Core\obj\Debug\netcoreapp1.1\FirstGlobal.DeployTrack.Core.dll
+C:\Sample Projects\FirstGlobal.DeployTrack\FirstGlobal.DeployTrack.Core\obj\Debug\netcoreapp1.1\FirstGlobal.DeployTrack.Core.pdb

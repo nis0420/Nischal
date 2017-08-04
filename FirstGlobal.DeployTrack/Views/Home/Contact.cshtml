@@ -1,0 +1,37 @@
+﻿@*@model FirstGlobal.DeployTrack.Models.ListDeployTrackViewModel*@
+@{
+    ViewData["Title"] = "Contact";
+}
+
+<h2>Deply Track List</h2>
+
+<table class="table">
+    <tr>
+        <th>Id</th>
+        <th>Module Name</th>
+        @*<th>Role</th>
+            <th>Edit/Delte</th>*@
+    </tr>
+    @foreach (var mod in Model.DeployTrackViewModelsList)
+    {
+        <tr class="">
+            <td>@mod.Id</td>
+            <td>@mod.ModuleName</td>
+
+
+            <td>
+                @*<a href="/TestCalendar/EventAdd/@mod.Id" class="btn btn-info">
+                    <span class="glyphicon glyphicon-plus"></span> Add Events
+                </a>*@
+                <a href="/TestCalendar/EventList/@mod.Id" class="btn btn-success">
+                    <span class="glyphicon glyphicon-success"></span> Edit Events
+                </a>
+                <a href="/TestCalendar/CalendarDelete/@mod.Id" class="btn btn-danger">
+                    <span class="glyphicon glyphicon-remove-sign"></span>
+                    Delete
+                </a>
+            </td>
+        </tr>
+    }
+
+</table>
