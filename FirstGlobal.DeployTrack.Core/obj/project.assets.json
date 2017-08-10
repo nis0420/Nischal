@@ -7618,15 +7618,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\npanwala\\.nuget\\packages\\": {}
+    "C:\\Users\\rthataliyath\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GitHub\\Nischal\\FirstGlobal.DeployTrack.Core\\FirstGlobal.DeployTrack.Core.csproj",
+      "projectUniqueName": "C:\\GitHub\\Projects\\FirstGlobal.DeployTrack.Core\\FirstGlobal.DeployTrack.Core.csproj",
       "projectName": "FirstGlobal.DeployTrack.Core",
-      "projectPath": "C:\\GitHub\\Nischal\\FirstGlobal.DeployTrack.Core\\FirstGlobal.DeployTrack.Core.csproj",
-      "outputPath": "C:\\GitHub\\Nischal\\FirstGlobal.DeployTrack.Core\\obj\\",
+      "projectPath": "C:\\GitHub\\Projects\\FirstGlobal.DeployTrack.Core\\FirstGlobal.DeployTrack.Core.csproj",
+      "outputPath": "C:\\GitHub\\Projects\\FirstGlobal.DeployTrack.Core\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
