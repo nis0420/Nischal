@@ -10,3 +10,10 @@ C:\Sample Projects\FirstGlobal.DeployTrack\FirstGlobal.DeployTrack\obj\Debug\net
 C:\Sample Projects\FirstGlobal.DeployTrack\FirstGlobal.DeployTrack\bin\Debug\netcoreapp1.1\FirstGlobal.DeployTrack.Core.dll
 C:\Sample Projects\FirstGlobal.DeployTrack\FirstGlobal.DeployTrack\bin\Debug\netcoreapp1.1\FirstGlobal.DeployTrack.Core.pdb
 C:\Sample Projects\FirstGlobal.DeployTrack\FirstGlobal.DeployTrack\bin\Debug\netcoreapp1.1\Owin.dll
+C:\GitHub\Nischal\FirstGlobal.DeployTrack\bin\Debug\netcoreapp1.1\FirstGlobal.DeployTrack.deps.json
+C:\GitHub\Nischal\FirstGlobal.DeployTrack\bin\Debug\netcoreapp1.1\FirstGlobal.DeployTrack.runtimeconfig.json
+C:\GitHub\Nischal\FirstGlobal.DeployTrack\bin\Debug\netcoreapp1.1\FirstGlobal.DeployTrack.runtimeconfig.dev.json
+C:\GitHub\Nischal\FirstGlobal.DeployTrack\obj\Debug\netcoreapp1.1\FirstGlobal.DeployTrack.csprojResolveAssemblyReference.cache
+C:\GitHub\Nischal\FirstGlobal.DeployTrack\obj\Debug\netcoreapp1.1\FirstGlobal.DeployTrack.AssemblyInfo.cs
+C:\GitHub\Nischal\FirstGlobal.DeployTrack\obj\Debug\netcoreapp1.1\FirstGlobal.DeployTrack.dll
+C:\GitHub\Nischal\FirstGlobal.DeployTrack\obj\Debug\netcoreapp1.1\FirstGlobal.DeployTrack.pdb

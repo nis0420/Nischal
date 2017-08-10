@@ -6281,7 +6281,7 @@
       ]
     },
     "System.Diagnostics.DiagnosticSource/4.4.0": {
-      "sha512": "2SMt95w+TKf2fth4mSlqn1AVNSmFDQkdTVmUe6D/oP1atzVU0vxTb+iDP+IHNQB1qSbYkWNoPN55SaMsGUe68A==",
+      "sha512": "UYr0+UbBAJwdsUrHqSWTOtT5DqZ9F116IUljFTl9l5KLMk4vxujml2bZFngErOHtOrKOy53exg5eBGlg3tNudA==",
       "type": "package",
       "path": "system.diagnostics.diagnosticsource/4.4.0",
       "files": [
@@ -10160,15 +10160,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\rthataliyath\\.nuget\\packages\\": {}
+    "C:\\Users\\npanwala\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GitHub\\Projects\\FirstGlobal.DeployTrack\\FirstGlobal.DeployTrack.csproj",
+      "projectUniqueName": "C:\\GitHub\\Nischal\\FirstGlobal.DeployTrack\\FirstGlobal.DeployTrack.csproj",
       "projectName": "FirstGlobal.DeployTrack",
-      "projectPath": "C:\\GitHub\\Projects\\FirstGlobal.DeployTrack\\FirstGlobal.DeployTrack.csproj",
-      "outputPath": "C:\\GitHub\\Projects\\FirstGlobal.DeployTrack\\obj\\",
+      "projectPath": "C:\\GitHub\\Nischal\\FirstGlobal.DeployTrack\\FirstGlobal.DeployTrack.csproj",
+      "outputPath": "C:\\GitHub\\Nischal\\FirstGlobal.DeployTrack\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
@@ -10176,8 +10176,8 @@
       "frameworks": {
         "netcoreapp1.1": {
           "projectReferences": {
-            "C:\\GitHub\\Projects\\FirstGlobal.DeployTrack.Core\\FirstGlobal.DeployTrack.Core.csproj": {
-              "projectPath": "C:\\GitHub\\Projects\\FirstGlobal.DeployTrack.Core\\FirstGlobal.DeployTrack.Core.csproj"
+            "C:\\GitHub\\Nischal\\FirstGlobal.DeployTrack.Core\\FirstGlobal.DeployTrack.Core.csproj": {
+              "projectPath": "C:\\GitHub\\Nischal\\FirstGlobal.DeployTrack.Core\\FirstGlobal.DeployTrack.Core.csproj"
             }
           }
         }
