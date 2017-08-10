@@ -17,3 +17,14 @@ C:\GitHub\Nischal\FirstGlobal.DeployTrack\obj\Debug\netcoreapp1.1\FirstGlobal.De
 C:\GitHub\Nischal\FirstGlobal.DeployTrack\obj\Debug\netcoreapp1.1\FirstGlobal.DeployTrack.AssemblyInfo.cs
 C:\GitHub\Nischal\FirstGlobal.DeployTrack\obj\Debug\netcoreapp1.1\FirstGlobal.DeployTrack.dll
 C:\GitHub\Nischal\FirstGlobal.DeployTrack\obj\Debug\netcoreapp1.1\FirstGlobal.DeployTrack.pdb
+C:\GitHub\Projects\FirstGlobal.DeployTrack\bin\Debug\netcoreapp1.1\FirstGlobal.DeployTrack.deps.json
+C:\GitHub\Projects\FirstGlobal.DeployTrack\bin\Debug\netcoreapp1.1\FirstGlobal.DeployTrack.runtimeconfig.json
+C:\GitHub\Projects\FirstGlobal.DeployTrack\bin\Debug\netcoreapp1.1\FirstGlobal.DeployTrack.runtimeconfig.dev.json
+C:\GitHub\Projects\FirstGlobal.DeployTrack\obj\Debug\netcoreapp1.1\FirstGlobal.DeployTrack.csprojResolveAssemblyReference.cache
+C:\GitHub\Projects\FirstGlobal.DeployTrack\obj\Debug\netcoreapp1.1\FirstGlobal.DeployTrack.AssemblyInfo.cs
+C:\GitHub\Projects\FirstGlobal.DeployTrack\obj\Debug\netcoreapp1.1\FirstGlobal.DeployTrack.dll
+C:\GitHub\Projects\FirstGlobal.DeployTrack\obj\Debug\netcoreapp1.1\FirstGlobal.DeployTrack.pdb
+C:\GitHub\Projects\FirstGlobal.DeployTrack\bin\Debug\netcoreapp1.1\FirstGlobal.DeployTrack.dll
+C:\GitHub\Projects\FirstGlobal.DeployTrack\bin\Debug\netcoreapp1.1\FirstGlobal.DeployTrack.pdb
+C:\GitHub\Projects\FirstGlobal.DeployTrack\bin\Debug\netcoreapp1.1\FirstGlobal.DeployTrack.Core.dll
+C:\GitHub\Projects\FirstGlobal.DeployTrack\bin\Debug\netcoreapp1.1\FirstGlobal.DeployTrack.Core.pdb
